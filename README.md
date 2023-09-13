@@ -1,2 +1,2 @@
 # AlgernonHolmes.github.io
-A simple text-to-speech web app built using HTML, CSS and Javascript.
+In order to use: copy and paste AlgernonHolmes.github.io in your browser search bar.
